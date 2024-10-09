@@ -12,6 +12,9 @@ black = "*"
 python-dotenv = "*"
 tweepy = "*"
 flask = "*"
+langchain-pinecone = "*"
+pypdf = "*"
+faiss-cpu = "*"
 
 [dev-packages]
 
