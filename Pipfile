@@ -29,6 +29,8 @@ tqdm = "*"
 isort = "*"
 firecrawl-py = "*"
 pillow = "*"
+langchain-experimental = "*"
+qrcode = "*"
 
 [dev-packages]
 

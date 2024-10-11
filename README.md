@@ -12,3 +12,5 @@ https://github.com/emarco177/documentation-helper
 https://nubela.co/proxycurl/
 
 `streamlit run ./doc_assist/main.py`
+
+https://langchain-text-splitter.streamlit.app/
